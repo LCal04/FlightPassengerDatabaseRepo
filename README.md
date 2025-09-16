@@ -42,7 +42,7 @@ Tables are saved inside an Excel workbook:
 
 --- 
 
-#How to run the code
+# How to run the code
 
 *1) Clone the Repository
 '''bash
